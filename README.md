@@ -2,6 +2,8 @@
 
 Build real AI agents using Ollama and Python — step by step.
 
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aymanhamed)
+
 ---
 
 ## 📘 About
@@ -54,11 +56,6 @@ For full explanations, step-by-step guidance, and projects:
 
 > Simple but Impactful  
 > Build agents that don’t just respond… but act.
-
-## ☕ Support
-If you find this project helpful, consider supporting my work:
-
-[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aymanhamed)
 
 ---
 

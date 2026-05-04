@@ -1,5 +1,7 @@
 # Simple Agent with Ollama Native Tool Calling
 
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aymanhamed)
+
 This folder contains examples of how to build AI agents using Ollama's native tool calling capabilities. 
 
 ---
@@ -52,8 +54,3 @@ response = ollama.chat(
 
 If the model decides to use a tool, `response.message.tool_calls` will contain the necessary information to execute the function.
 
----
-
-### ☕ Support
-If you find this project helpful, consider supporting my work:
-👉 **[Support me on Ko-fi](https://ko-fi.com/aymanhamed)**
