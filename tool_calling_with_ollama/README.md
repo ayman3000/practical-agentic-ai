@@ -2,6 +2,14 @@
 
 This folder contains examples of how to build AI agents using Ollama's native tool calling capabilities. 
 
+---
+
+### 📘 Course Manual
+For full description, code, hints and MCQ, check out the manual on Ko-fi:
+👉 **[Tool Calling with Ollama - Full Manual](https://ko-fi.com/s/321e1f65ff)**
+
+---
+
 
 ## Prerequisites
 
@@ -43,3 +51,9 @@ response = ollama.chat(
 ```
 
 If the model decides to use a tool, `response.message.tool_calls` will contain the necessary information to execute the function.
+
+---
+
+### ☕ Support
+If you find this project helpful, consider supporting my work:
+👉 **[Support me on Ko-fi](https://ko-fi.com/aymanhamed)**

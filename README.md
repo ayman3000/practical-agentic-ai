@@ -45,7 +45,8 @@ This repository contains **code only**.
 
 For full explanations, step-by-step guidance, and projects:
 
-👉 [Ko-fi Guide Link]
+👉 [Practical Agentic AI Manual](https://ko-fi.com/s/321e1f65ff)
+(Includes full description, code, hints, and MCQs)
 
 ---
 
@@ -53,6 +54,11 @@ For full explanations, step-by-step guidance, and projects:
 
 > Simple but Impactful  
 > Build agents that don’t just respond… but act.
+
+## ☕ Support
+If you find this project helpful, consider supporting my work:
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aymanhamed)
 
 ---
 
